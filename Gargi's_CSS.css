@@ -1,0 +1,73 @@
+h1 {
+        	color:#EB4DBB;
+        }
+
+
+
+p {
+     color:white;
+}
+
+
+a {
+     color:#EDC2F2;
+}
+
+option {
+	color:#15D468;
+}
+
+
+
+
+th {
+	color:#1538D4;
+}
+
+
+#special {
+	color:#4AE0E8;
+}
+
+
+
+body {
+	background:url(https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&h=350);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+
+
+
+td {
+	color:#127343;
+}
+
+
+button {
+	color:red;
+}
+
+
+h1 {
+	text-align:center;
+}
+
+h1 {
+	font-size:50px;
+}
+
+
+p {
+	font-family:Indie Flower;
+}
+
+
+h1 {
+	font-family:Cormorant Unicase;
+}
+
+a {
+	font-family:Shadows Into Light;
+}
